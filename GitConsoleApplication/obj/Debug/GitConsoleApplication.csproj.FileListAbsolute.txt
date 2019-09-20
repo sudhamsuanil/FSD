@@ -1,0 +1,7 @@
+C:\Users\Anil\source\repos\GitConsoleApplication\GitConsoleApplication\bin\Debug\GitConsoleApplication.exe.config
+C:\Users\Anil\source\repos\GitConsoleApplication\GitConsoleApplication\bin\Debug\GitConsoleApplication.exe
+C:\Users\Anil\source\repos\GitConsoleApplication\GitConsoleApplication\bin\Debug\GitConsoleApplication.pdb
+C:\Users\Anil\source\repos\GitConsoleApplication\GitConsoleApplication\obj\Debug\GitConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Anil\source\repos\GitConsoleApplication\GitConsoleApplication\obj\Debug\GitConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Anil\source\repos\GitConsoleApplication\GitConsoleApplication\obj\Debug\GitConsoleApplication.exe
+C:\Users\Anil\source\repos\GitConsoleApplication\GitConsoleApplication\obj\Debug\GitConsoleApplication.pdb
