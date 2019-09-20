@@ -11,6 +11,7 @@ namespace GitConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("First hello from git");
+            Console.WriteLine("Second hello from githere...");
         }
     }
 }
